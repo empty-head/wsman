@@ -1,6 +1,7 @@
 # wsman
 very simple webshell manager (wip)
 
+also first python program so it's bad
 
 # how to install:
 
